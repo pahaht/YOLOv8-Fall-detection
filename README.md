@@ -2,7 +2,9 @@
 #Training YOLOv8 on Falling Dataset to Enable Real-Time Fall Detection
 # **Fall Detection using YOLOv8**
 
-![alt text](https://github.com/pahaht/Falbot/blob/main/Images/fall-all.JPG )  
+![alt text]( https://github.com/pahaht/YOLOv8-Fall-detection/blob/main/Images/fall-all.JPG)  
+
+  https://github.com/pahaht/YOLOv8-Fall-detection/blob/main/Images/fall-all.JPG
 
 ### *Overview*
 This project focuses on training YOLOv8 on a Falling Dataset with the goal of enabling real-time fall detection.
@@ -60,7 +62,7 @@ from IPython.display import Image
 Image(filename=r'C:\Users\user\YOLOhuit-FALL-detection\runs\detect\train3\labels.jpg', width=600)
 </code></pre>
 
-![alt text](https://github.com/pahaht/Fall-detection-using-YOLOv8/blob/main/Images/results.JPG )  
+![alt text]( https://github.com/pahaht/YOLOv8-Fall-detection/blob/main/Images/results.JPG)  
 
 <pre><code>
 from IPython.display import Image
