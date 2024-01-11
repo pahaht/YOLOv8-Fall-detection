@@ -1,23 +1,17 @@
 # YOLOv8-Fall-detection
-#Training YOLOv8 on Falling Dataset to Enable Real-Time Fall Detection
-# **Fall Detection using YOLOv8**
-
-![alt text]( https://github.com/pahaht/YOLOv8-Fall-detection/blob/main/Images/fall-all.JPG)  
-
-  https://github.com/pahaht/YOLOv8-Fall-detection/blob/main/Images/fall-all.JPG
-
 ### *Overview*
 This project focuses on training YOLOv8 on a Falling Dataset with the goal of enabling real-time fall detection.
 It constitutes a comprehensive initiative aimed at harnessing the capabilities of YOLOv8, a cutting-edge object
 detection model, to enhance the efficiency of fall detection in real-time scenarios.
 
+![alt text]( https://github.com/pahaht/YOLOv8-Fall-detection/blob/main/Images/fall-all.JPG)  
+ 
 ### *Installation*
 To install YOLOv8, please follow this link, which contains comprehensive 
 documentation that will be beneficial to you: https://docs.ultralytics.com/
 
 ### *Dataset*
 In this project, I used the Roboflow dataset :https://universe.roboflow.com/hero-d6kgf/yolov5-fall-detection
-
 
 ### *Training YOLOv8 based on Fall Dataset*
 -To understand well the training process follow this link :https://docs.ultralytics.com/modes/train/#why-choose-ultralytics-yolo-for-training
