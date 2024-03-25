@@ -49,20 +49,6 @@ from IPython.display import Image
 Image(input image path\runs\detect\train3\labels_correlogram.jpg', width=600)
 </code></pre>
 
-![alt text]( https://github.com/pahaht/YOLOv8-Fall-detection/blob/main/Images/results.JPG)  
-
-
-
-
-fig, axs = plt.subplots(2, 2, figsize=(15, 15))
-for i, ax in enumerate(axs.flatten()):
-    img = mpimg.imread(image_paths[i])
-    ax.imshow(img)
-    ax.axis('off')  
-
-plt.tight_layout()
-
-plt.show()
 
 </code></pre>
 
